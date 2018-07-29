@@ -1,0 +1,2 @@
+# acadgild-Assignment-5-Advance-MapReduce
+ADVANCE MAP REDUCE AND INTRODUCTION TO UNIX CONCEPTS
